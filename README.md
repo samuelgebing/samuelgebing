@@ -11,10 +11,10 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img alt="PHP" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg" />
-  <img alt="JS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
-  <img alt="HTML" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" />
-  <img alt="CSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" />
+  <img alt="PHP" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg" />
+  <img alt="JS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
+  <img alt="HTML" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" />
+  <img alt="CSS" height="10" width="10" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" />
 </p>
 
 ### 📊 GitHub Stats
