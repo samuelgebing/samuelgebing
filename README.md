@@ -30,6 +30,13 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 [Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)
 [Samuel Gebing's GitHub stats](https://github.com/samuelgebing/github-readme-stats)
 
+<a href="https://github.com/samuelgebing/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgebing" />
+</a>
+<a href="https://github.com/samuelgebing/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelgebing&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ### 📧 Get in touch
 - **LinkedIn:** [://linkedin.com](https://br.://linkedin.com)
 - **Email:** [samu.gebing@gmail.com](mailto:samu.gebing@gmail.com)
