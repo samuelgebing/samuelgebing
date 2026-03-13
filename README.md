@@ -26,5 +26,5 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 </a>
 
 ### 📧 Get in touch
-- **LinkedIn:** [[://linkedin.com]([https://br.://linkedin.com](https://br.linkedin.com/in/samuel-gebing))](https://br.linkedin.com/in/samuel-gebing)
+- **LinkedIn:** [(https://br.linkedin.com/in/samuel-gebing)](https://br.linkedin.com/in/samuel-gebing)
 - **Email:** [samu.gebing@gmail.com](mailto:samu.gebing@gmail.com)
