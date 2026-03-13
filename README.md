@@ -18,20 +18,8 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 </p>
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
-[![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)](https://github.com/samuelgebing/github-readme-stats)
-![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)(https://github.com/samuelgebing/github-readme-stats)
-![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)
-![Samuel Gebing's GitHub stats](https://github.com/samuelgebing/github-readme-stats)
-[Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)(https://github.com/samuelgebing/github-readme-stats)
-[Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)
-[Samuel Gebing's GitHub stats](https://github.com/samuelgebing/github-readme-stats)
-
 <a href="https://github.com/samuelgebing/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgebing" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelgebing&theme=dark" />
 </a>
 <a href="https://github.com/samuelgebing/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelgebing&layout=compact&langs_count=8&card_width=320" />
