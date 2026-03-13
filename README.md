@@ -11,9 +11,9 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![JavaScript](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
+![JavaScript](https://img.shields.io/js/js.svg?logo=javascript)
+![HTML5](https://img.shields.io/html5/html5.svg)
+![CSS3](https://img.shields.io/css3/)
 
 ### 📊 GitHub Stats
 <p align="left">
