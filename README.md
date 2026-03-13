@@ -12,9 +12,9 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 ### 🛠️ Tech Stack
 <p align="left">
   <img alt="PHP" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg" />
-  <img alt="JS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
-  <img alt="HTML" height="20" width="20" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" />
-  <img alt="CSS" height="10" width="10" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" />
+  <img alt="JS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
+  <img alt="HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" />
+  <img alt="CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" />
 </p>
 
 ### 📊 GitHub Stats
@@ -22,6 +22,7 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
   <img height="180em" src="https://github-readme-stats.vercel.app" />
   <img height="180em" src="https://github-readme-stats.vercel.app" />
 </p>
+[![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)](https://github.com/samuelgebing/github-readme-stats)
 
 ### 📧 Get in touch
 - **LinkedIn:** [://linkedin.com](https://br.://linkedin.com)
