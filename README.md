@@ -10,7 +10,7 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
 - ⚡ **Fun fact:** I'm driven by continuous learning and staying up-to-date with the latest tech trends.
 
 ### 🛠️ Tech Stack
-[PHP](https://img.shields.io)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 ![JavaScript](https://img.shields.io)
 ![HTML5](https://img.shields.io)
 ![CSS3](https://img.shields.io)
