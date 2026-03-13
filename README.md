@@ -23,6 +23,12 @@ Currently, I'm focusing on mastering modern web development to bridge the gap be
   <img height="180em" src="https://github-readme-stats.vercel.app" />
 </p>
 [![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)](https://github.com/samuelgebing/github-readme-stats)
+![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)(https://github.com/samuelgebing/github-readme-stats)
+![Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)
+![Samuel Gebing's GitHub stats](https://github.com/samuelgebing/github-readme-stats)
+[Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)(https://github.com/samuelgebing/github-readme-stats)
+[Samuel Gebing's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgebing)
+[Samuel Gebing's GitHub stats](https://github.com/samuelgebing/github-readme-stats)
 
 ### 📧 Get in touch
 - **LinkedIn:** [://linkedin.com](https://br.://linkedin.com)
